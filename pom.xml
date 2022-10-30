@@ -13,6 +13,8 @@
     <modules>
         <module>spring-boot-quickstart</module>
         <module>spring-boot-common</module>
+        <module>spring-boot-sync</module>
+        <module>spring-boot-quartz</module>
     </modules>
 
     <properties>
