@@ -15,6 +15,7 @@
         <module>spring-boot-common</module>
         <module>spring-boot-sync</module>
         <module>spring-boot-quartz</module>
+        <module>spring-boot-mq</module>
     </modules>
 
     <properties>
